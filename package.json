@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-using-html-in-autocode",
+  "author": "Vix123",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
